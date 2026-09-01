@@ -1,3 +1,15 @@
 # 宝藏彬少
 
-自己在用的东西，做成了能给别人用的。
+下面三件，都是自己日常用着长出来的，直接拿去用。
+
+### [book-distiller](https://github.com/Heybinshao/book-distiller)
+
+拆完一本书，要留下能用的结构时用。
+
+### [path-simulation](https://github.com/Heybinshao/path-simulation)
+
+写完 skill 或教程，怕自己没跑通时用。
+
+### [hermes-appearance-hub](https://github.com/Heybinshao/hermes-appearance-hub)
+
+用 Hermes 桌面，想把外观收进状态栏时用。
