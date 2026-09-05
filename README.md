@@ -1,7 +1,3 @@
-# 宝藏彬少
-
-都是自己用着缺了才做的。
-
 ## Hermes 桌面插件
 
 - [Hermes 外观插件](https://github.com/Heybinshao/hermes-appearance-hub) — 主题、字体、纸纹、窗口透明，桌面外观全收进状态栏一键管理
