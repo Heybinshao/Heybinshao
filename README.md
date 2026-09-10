@@ -4,7 +4,7 @@
 
 - [Hermes 外观插件](https://github.com/Heybinshao/hermes-appearance-hub) — 主题、字体、纸纹、窗口透明，桌面外观全收进状态栏一键管理
 - [自定义提示词插件](https://github.com/Heybinshao/prompt-snippets) — 常用提示词存成片段，快捷键呼出来挑，多个会话各用各的
-- [增强提示词插件](https://github.com/Heybinshao/prompt-enhancer) — 输入框里的 ✨ 按钮：一句话草稿改写为结构化完整提示词，不满意一键还原
+- [增强提示词插件](https://github.com/Heybinshao/prompt-enhancer) — 输入框里的 ✨ 按钮：一句话草稿改写为结构化完整提示词，文件引用与文本混着用也行，不满意一键还原
 
 ## AI Skill
 
