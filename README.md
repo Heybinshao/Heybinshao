@@ -4,13 +4,13 @@
 
 - [Hermes 外观插件](https://github.com/Heybinshao/hermes-appearance-hub) — 主题、字体、纸纹、窗口透明、对话开关，浮窗一键管理
 - [自定义提示词插件](https://github.com/Heybinshao/prompt-snippets) — 常用提示词存成片段，快捷键呼出来挑，多个会话各用各的
-- [增强提示词插件](https://github.com/Heybinshao/prompt-enhancer) — 输入框里的 ✨ 按钮：一句话草稿改写为结构化完整提示词，文件引用与文本混着用也行，不满意一键还原
+- [增强提示词插件](https://github.com/Heybinshao/prompt-enhancer) — 输入框 ✨ 按钮：一句话草稿变完整提示词，一键还原
 
 ## AI Skill
 
-一个管生产，三个管质检。质检之间有引用：验收流水线把结构体检和路径模拟串成一条流水线。
+一个管生产，三个管质检。验收流水线把结构体检和路径模拟串成一条流水线。
 
-- [书籍榨干器](https://github.com/Heybinshao/book-distiller) — 通读全书再拆解，榨出概念、金句、案例、反模式、行动清单；几百本的拆解还能整合成主题手册
-- [路径模拟](https://github.com/Heybinshao/path-simulation) — 写完的流程（skill / workflow / 开发方案）先自己走一遍：场景枚举查入口漏没漏，路径模拟查断链在哪
-- [Skill 结构体检](https://github.com/Heybinshao/skill-health-audit) — skill 或开发方案发布前的结构体检：孤儿引用、断裂链接、虚假权威声称、文档和脚本对不上
-- [Skill 验收流水线](https://github.com/Heybinshao/skill-acceptance) — 一句话验收一个 skill 或开发方案，编排上面两个：先结构体检、再场景枚举、再路径模拟，出一份统一验收报告
+- [书籍榨干器](https://github.com/Heybinshao/book-distiller) — 通读全书榨出概念、金句、案例与行动清单，几百本可整合成手册
+- [路径模拟](https://github.com/Heybinshao/path-simulation) — 写完的流程自己先走一遍，查入口漏没漏、断链在哪
+- [Skill 结构体检](https://github.com/Heybinshao/skill-health-audit) — 发布前体检 skill 或方案：孤儿引用、断链、文档脚本不符
+- [Skill 验收流水线](https://github.com/Heybinshao/skill-acceptance) — 一句话验收 skill 或方案，编排上面两个出统一报告
